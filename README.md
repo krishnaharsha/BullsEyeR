@@ -1,5 +1,9 @@
 # BullsEyeR
 
+#Topic Modelling for content curation @COGNIZANT ANALYTICS
+
+#Depends: tm, NLP, topicmodels, Matrix, slam
+
 DESCRIPTION:
 
 1)Helps in intial preprocessing like converting text to lower case, removing (punctuation, numbers,stop words), stemming, sparsity control   and TF-IDF pre-processing.
